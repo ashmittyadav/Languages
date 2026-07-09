@@ -1,0 +1,4 @@
+name=input("enter yout name:")
+print("name in upper case=",name.upper())
+print("name in lower case=",name.lower())
+print("name in title format=",name.title())
